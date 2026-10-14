@@ -1,20 +1,21 @@
 # Laboratorio Blue Team - Kali Linux
 
-## Descripción
 Repositorio de prácticas, notas y scripts desarrollados durante mi formación 
 en ciberseguridad defensiva (Blue Team) utilizando Kali Linux.
 
-## Contenido
-- Notas de análisis de logs
-- Scripts de Python para parsing de logs
-- Capturas de análisis de tráfico con Wireshark
-- Prácticas de TryHackMe
+## Objetivo
 
-## Herramientas utilizadas
+Documentar mi aprendizaje práctico en análisis de logs, detección de 
+anomalías y respuesta a incidentes, aplicando herramientas reales 
+utilizadas en un SOC (Security Operations Center).
+
+##  Herramientas utilizadas
+
 - Kali Linux
-- Wireshark
-- tcpdump
-- Python
-- TryHackMe
+- Python 3
+- journalctl (logs del sistema)
+- Wireshark (análisis de tráfico)
+- tcpdump (captura de paquetes)
+- TryHackMe (plataforma de práctica)
 
-## Estructura del repositorio
+## 📂 Estructura del repositorio
