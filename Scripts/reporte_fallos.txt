@@ -1,0 +1,12 @@
+OGS - INTENTOS FALLIDOS
+============================================================
+Fecha: 2026-10-12 23:32:53
+Fuente: journalctl
+Total de intentos fallidos: 1
+
+TOP 5 IPs ATACANTES:
+
+TOP 5 USUARIOS ATACADOS:
+ usuario_falso: 1 intentos
+
+[INFO] Severidad BAJA
